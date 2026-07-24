@@ -1,0 +1,1 @@
+My family runs our own fantasy league for our favorite sport- Formula One! After wasting lots of time scoring all our predictions in Google Sheets, I finally broke down and wrote this code to score our results and create some basic plots showing who's in the lead. 
